@@ -2,7 +2,7 @@
 camera = camera_create();
 
 // This variable defines the camera scrolling speed per pixel.
-camera_speed = 25;
+camera_speed = 5;
 
 // This function builds a "look-at" (view) matrix.
 // This function modifies the view matrix and not the projection matrix.
