@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "3f43bc5c-24b8-4464-b0bd-c13ac8be3e92",
+            "Value": {
+                "id": "84c068a4-8e8b-4ac5-9981-f2dc78754700",
+                "resourcePath": "scripts\\ChangeWeapon\\ChangeWeapon.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "459ca4b9-70ed-4e09-b457-6311ced064d2",
             "Value": {
                 "id": "ffc3f69f-8f45-40e4-8907-bd46bf7ce2e2",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "5624acab-36aa-49f7-984e-10e154f6465b",
+            "Value": {
+                "id": "a517e7d7-3343-4ae7-9b21-edd035fb047f",
+                "resourcePath": "objects\\oWeapon\\oWeapon.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "56512f68-6a61-42c9-bd81-12f785b170a4",
             "Value": {
                 "id": "1a4c2b8c-17d6-46bd-8596-ea8d405a5d34",
@@ -108,6 +124,14 @@
                 "id": "16191dc9-10b9-472b-9e33-9226e23fe631",
                 "resourcePath": "objects\\oCamera\\oCamera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e567acc-f60d-4b32-b1ae-2ba1fbe7ef2c",
+            "Value": {
+                "id": "c481a465-847e-48e8-bf3c-553e90270a1c",
+                "resourcePath": "sprites\\sGun_AR\\sGun_AR.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +188,14 @@
                 "id": "3ec73afc-3e77-4c43-9798-4372bdad6290",
                 "resourcePath": "views\\b4f652e1-a86b-4596-8458-699dd6f1c1df.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b52256f0-5cf1-42a1-9869-e4b194afd653",
+            "Value": {
+                "id": "f02b7d85-cf42-4f53-9437-59cbc60aff03",
+                "resourcePath": "objects\\oHitscan\\oHitscan.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -229,10 +261,18 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "fd22967c-9222-4970-bc92-4db4144c6d4b",
+            "Value": {
+                "id": "255b17ab-ff81-47a3-a75e-c8a041235bd7",
+                "resourcePath": "sprites\\sHitscan\\sHitscan.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        
+        "3f43bc5c-24b8-4464-b0bd-c13ac8be3e92"
     ],
     "tutorial": ""
 }
